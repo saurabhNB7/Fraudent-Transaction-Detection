@@ -1,5 +1,5 @@
 # Fraudent-Transaction-Detection
-This dataset contains columns such as type of transaction, amount transfered or received, ID of particular transaction and the task was to identify whether the transaction is fraudant or not. The size of ethe dataset is around 0.5 GB so I would not be able to upload the dataset here. Please refer the images below to get the idea of the features of the dataset.
+This dataset contains columns such as type of transaction, amount transfered or received, ID of particular transaction and the task was to identify whether the transaction is fraudant or not. The size of the dataset is around 0.5 GB so I would not be able to upload the dataset here. Please refer the images below to get the idea of the features of the dataset.
 
 
 
